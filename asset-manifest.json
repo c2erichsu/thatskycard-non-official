@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thatskycard-non-official/static/css/main.073c9b0a.css",
+    "main.js": "/thatskycard-non-official/static/js/main.8c3f1599.js",
+    "static/js/787.3448e51b.chunk.js": "/thatskycard-non-official/static/js/787.3448e51b.chunk.js",
+    "static/media/logo.svg": "/thatskycard-non-official/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/thatskycard-non-official/index.html",
+    "main.073c9b0a.css.map": "/thatskycard-non-official/static/css/main.073c9b0a.css.map",
+    "main.8c3f1599.js.map": "/thatskycard-non-official/static/js/main.8c3f1599.js.map",
+    "787.3448e51b.chunk.js.map": "/thatskycard-non-official/static/js/787.3448e51b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8c3f1599.js"
+  ]
+}
