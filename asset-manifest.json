@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thatskycard-non-official/static/css/main.0b4e74b4.css",
-    "main.js": "/thatskycard-non-official/static/js/main.a0780d62.js",
+    "main.css": "/thatskycard-non-official/static/css/main.680ea24b.css",
+    "main.js": "/thatskycard-non-official/static/js/main.b565991e.js",
     "static/js/787.3448e51b.chunk.js": "/thatskycard-non-official/static/js/787.3448e51b.chunk.js",
     "index.html": "/thatskycard-non-official/index.html",
-    "main.0b4e74b4.css.map": "/thatskycard-non-official/static/css/main.0b4e74b4.css.map",
-    "main.a0780d62.js.map": "/thatskycard-non-official/static/js/main.a0780d62.js.map",
+    "main.680ea24b.css.map": "/thatskycard-non-official/static/css/main.680ea24b.css.map",
+    "main.b565991e.js.map": "/thatskycard-non-official/static/js/main.b565991e.js.map",
     "787.3448e51b.chunk.js.map": "/thatskycard-non-official/static/js/787.3448e51b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b4e74b4.css",
-    "static/js/main.a0780d62.js"
+    "static/css/main.680ea24b.css",
+    "static/js/main.b565991e.js"
   ]
 }
