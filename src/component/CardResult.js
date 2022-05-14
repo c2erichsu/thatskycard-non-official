@@ -40,6 +40,7 @@ function drawPlayTime() {
 
 
 function CardResult() {
+    const t = "t";
     return (<div>
         <div>result</div>
         <div class="img-thumbnail">
@@ -48,8 +49,15 @@ function CardResult() {
             <button onClick={drawPlayTime} />
         </div>
         <UserContext.Consumer>
-            {value => <img src={value.img_url} style={{ width: 200, height: 200 }} />}
+            {value =>
+                <div>
+                    <img src={value.img_url} style={{ width: 200, height: 200 }} />
+                    <p>{value.name}</p>
+                </div>
+            }
         </UserContext.Consumer>
+
+
     </div>
     );
 }
